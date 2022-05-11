@@ -1,0 +1,9 @@
+This class is ESE 124: Programming Fundamentals
+The current lab is Lab 7, 2D Array Processing
+Line 1
+Line 2
+Line 3
+Each word can have up to 32 characters
+This input file has 7 lines. 
+ 
+ 
