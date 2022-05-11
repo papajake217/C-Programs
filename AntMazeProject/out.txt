@@ -1,0 +1,2 @@
+Energy Consumed: 11
+Sequence of moves: (5,4)
