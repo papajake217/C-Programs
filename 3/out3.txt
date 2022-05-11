@@ -1,0 +1,8 @@
+n vowels: 0 
+jexkoqsz vowels: 2 
+opqak vowels: 2 
+e vowels: 1 
+e vowels: 1 
+iowjeqnirub vowels: 5 
+Most vowels: 5 
+The word with the most vowels is: iowjeqnirub

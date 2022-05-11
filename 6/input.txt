@@ -1,0 +1,7 @@
+ESE 124 Spring 2021
+This is homework 8 problem 5
+Word length counting
+Max word length is 25 characters
+Only alphabetic characters are counted
+P1&P2 are FSM problem
+A single question on reading text file
